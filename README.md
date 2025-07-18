@@ -21,6 +21,6 @@ The app displays current temperature, weather condition, humidity, and wind spee
 - Displays real-time temperature, condition, humidity, and wind speed
 -  Shows a relevant weather icon
 -  Fully responsive design (works on desktop and mobile)
--  API key is hidden using a separate config file (`config.js`)
+-  API key is not hidden for deployment purpose don't use it for yourself 
 -  To run this app locally, create a config.js with your WeatherAPI key
 
